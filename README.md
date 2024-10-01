@@ -1,4 +1,4 @@
-[![MasterHead](https://www.locuz.com/wp-content/uploads/2023/10/devsecops.jpg)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:828/format:webp/1*DluPjzT_eTUFdzHCI7JBZA.gif)
 <h1 align="center">Hi 👋, I'm Sedat</h1>
 <h3 align="center">DevSecOps / DevOps / Ethical hacking</h3>
 
