@@ -27,13 +27,13 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,python,css,vagrant,docker,ansible,azure,aws" /><br>
-    <img src="https://skillicons.dev/icons?i=angular,mongodb,mysql,html,,linux,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,python,css,docker,ansible,azure,aws" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,html,linux,vscode,figma,c" />
 
   </a>
 </p>
 <br>
-<h4>Learning</h4>
+<h4 align="center">Learning</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=solidity,googlecloud" />
