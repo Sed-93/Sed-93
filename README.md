@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fakumeninc.com%2Fcapabilities%2Fdevsecops%2F&psig=AOvVaw1uOzFsEpPUtg08DTIWjdgy&ust=1727870838979000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjZ2s6S7YgDFQAAAAAdAAAAABAH)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fakumeninc.com%2Fcapabilities%2Fdevsecops%2F&psig=AOvVaw1uOzFsEpPUtg08DTIWjdgy&ust=1727870838979000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjZ2s6S7YgDFQAAAAAdAAAAABAH)
 <h1 align="center">Hi 👋, I'm Sedat</h1>
 <h3 align="center">DevSecOps / DevOps / Ethical hacking</h3>
 
