@@ -27,8 +27,8 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,python,css,docker,ansible,azure,aws" /><br>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,html,linux,vscode,figma,c" />
+    <img src="https://skillicons.dev/icons?i=git,github,python,css,docker,ansible,azure,aws,kubernetes,terraform,debian,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,html,linux,vscode,figma,c,cs,jenkins,kali,bash,grafana,ubuntu" />
 
   </a>
 </p>
